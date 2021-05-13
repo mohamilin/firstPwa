@@ -1,5 +1,4 @@
 ###  Dokumentasi Basic DOM
-
 1. Apa itu DOM ?
     - 
 2. Membuat element HTML dengan DOM
