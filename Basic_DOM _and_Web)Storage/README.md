@@ -1,6 +1,6 @@
 ###  Dokumentasi Basic DOM
 1. Apa itu DOM ?
-    - 
+    - DOM adalah
 2. Membuat element HTML dengan DOM
     - Kita dapat menggunakan object berupa document, karena berisi seluruh isi didalam HTML / browser
         - document.head => mengambil isi yang berada pada head HTMl
